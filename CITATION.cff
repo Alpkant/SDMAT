@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kantarci"
+  given-names: "Alperen"
+- family-names: "Dumestre"
+  given-names: "Marielle"
+- family-names: "Sigwart"
+  given-names: "Julia"
+- family-names: "Ramesh"
+  given-names: "Visvanathan"
+title: "SDMAT: Species Distribution Mapping and Analysis Tool"
+version: 1.0.0
+date-released: 2026-03-11
+url: "https://github.com/Alpkant/SDMAT"
+repository-code: "https://github.com/Alpkant/SDMAT"
+keywords:
+  - IUCN Red List
+  - Species Distribution
+  - AOO
+  - EOO
+  - Conservation Biology
+  - R-Shiny
+abstract: >-
+  SDMAT is an R-based utility for automating the generation of species 
+  distribution maps and calculating key IUCN Red List range metrics, 
+  including Extent of Occurrence (EOO) and Area of Occupancy (AOO) 
+  using a standard 2x2 km grid.
