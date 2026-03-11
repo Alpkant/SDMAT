@@ -5,7 +5,8 @@
 
 ## 🌟 Key Features
 * **Interactive GUI:** Built with `shinydashboard` for easy folder selection and real-time processing feedback.
-* **IUCN Compliant Metrics:** * **Area of Occupancy (AOO):** Calculated using the standard $2 \times 2$ km grid cells.
+* **IUCN Compliant Metrics:**
+* **Area of Occupancy (AOO):** Calculated using the standard $2 \times 2$ km grid cells.
 * **Extent of Occurrence (EOO):** Calculated via the Minimum Convex Polygon (MCP) method.
 * **Batch Processing:** Processes entire folders of species shapefiles automatically.
 
